@@ -1,10 +1,14 @@
 {Data Science IP Week 4}
+
 Moringa_Data_Science_Prep_W4_Independent_Project_2021_11_Faith_Nanzala.ipynb
+
 Understanding the Electric car usage in Paris
 
 {Python Programmming Data Science Project}, {November, 2021}
 By {Faith}
+
 Description
+
 {In this project, I will be acting as a data scientist working for an electric car-sharing service company.
 
 I will be processing the stations' data to understand electric car usage over time by solving the following research question.
